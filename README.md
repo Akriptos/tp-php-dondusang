@@ -1,5 +1,10 @@
 # TP PHP dondusang
 
+## Nom des membres de l'équipe
+
+PIZZETTA Arnaud
+TERVILLE Arthur
+
 ## Énoncé
 
 Le but du TP est de faire une petite interface pour trouver le point de don du sang le plus proche où je peux donner mon sang aujourd'hui.
